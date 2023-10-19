@@ -1,0 +1,1 @@
+E:\Maui MVVM Demo\Maui MVVM Demo\Maui MVVM Demo.csproj;x64
